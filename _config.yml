@@ -86,6 +86,7 @@ author:
   location         : "Cambridge, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=N_FtHksAAAAJ&hl=en" 
   email            : ruili.cambridge@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +97,6 @@ author:
   facebook         :
   foursquare       :
   github           : "ruihuili"
-  googlescholar    : "https://scholar.google.com/citations?user=N_FtHksAAAAJ&hl=en"
   linkedin         : "ruihuili"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
