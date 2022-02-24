@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %}   
 Please [get in touch](mailto:ruili.cambridge@gmail.com) for an up-to-date CV.
 
 Education 
