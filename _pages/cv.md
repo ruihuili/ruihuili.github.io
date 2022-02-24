@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Please [get in touch](mailto:ruili.cambridge@gmail.com) for an up-to-date CV.
 
 Education 
 ======
