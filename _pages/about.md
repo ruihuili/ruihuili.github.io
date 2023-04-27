@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 
-I am a machine learning researcher at Samsung AI Centre in Cambridge, UK. I am interested in communication theory, meta-learning, few-shot learning, and the intersections of these. I care about cross-domain adaptation and generalisation of ML models, as well as their performances in real-world systems. In the past, I have also worked on acoustic signal processing and resource allocation in wireless mobile communications.   
-
-I graduated with PhD from the School of Informatics, University of Edinburgh (Scotland) in 2019, advised by [Dr Paul Patras](http://homepages.inf.ed.ac.uk/ppatras/). I remain a good friend of the [Mobile Intelligence Lab](https://mi.inf.ed.ac.uk/). 
+I am a machine learning Research Scientist at Samsung AI Centre in Cambridge, UK. My research is currently focused on generalisation and transferability of machine learning models on resource-constrained environments such as mobile devices. I explore different machine learning paradigms including meta-learning, few-shot learning, and more recently federated learning. In the past, I have worked on acoustic signal processing and resource allocation in wireless mobile communications. Prior to Samsung AI, I obtained my PhD from the School of Informatics, University of Edinburgh in 2019. I was advised by [Dr Paul Patras](http://homepages.inf.ed.ac.uk/ppatras/), and I remain a good friend of the [Mobile Intelligence Lab](https://mi.inf.ed.ac.uk/). 
 
 News
 =====
