@@ -4,7 +4,11 @@ excerpt: "  "
 collection: portfolio
 ---
 
-I've been enjoying doing art mostly in the form of pencil drawings since when I was very young, but I always struggled finding time to do it properly. Only recently (as soon as PhD was over;)) I discovered my passion for trying out different kinds of paintings.
+UPDATE: Since COVID-19 pandemic I started to use [Instagram](https://www.instagram.com/doespaintings/) to record my amateur art work. 
+
+---
+
+I've been enjoying doing art mostly in the form of pencil drawings since when I was very young, but I always struggled having time to do it properly. Only recently (as soon as PhD was over;)) I discovered my passion for trying out different kinds of paintings. I agree with many researchers who I've had the pleasure to discuss arts with -- that working with colours and shapes is one of the best ways to complement a busy work-life in resesarch that involves mostly numbers, coding, papers, and papers!
 
 Sunflower is one of my favourite subjects to paint up to date.  
 <img src='/images/arts/sunflower_oil.jpg' width="500">
