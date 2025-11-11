@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am a Research Scientist in Artificial Intelligence working within the DistributedAI group at Samsung AI Centre in Cambridge, UK. My research is focused on efficient inference and fine-tuning of large language models and stable diffusion models in resource constrained environment. In the past years, I have worked on a number of different machine learning paradigms including meta-learning, few-shot learning, and federated learning, and applications of these in different domains such as vision recognition and wireless mobile communications. 
+I am a Research Scientist in Artificial Intelligence working within the DistributedAI group at Samsung AI Centre in Cambridge, UK. My research focuses on efficient inference and fine-tuning of large language models and stable diffusion models in resource constrained environment. In the past years, I have worked on a number of different machine learning paradigms including meta-learning, few-shot learning, and federated learning, and applications of these in different domains such as vision recognition and wireless mobile communications. 
 
-Prior to Samsung AI, I obtained my PhD from the School of Informatics, University of Edinburgh in 2019. I was advised by [Prof Paul Patras](http://homepages.inf.ed.ac.uk/ppatras/), and I remain a good friend of the [Mobile Intelligence Lab](https://mi.inf.ed.ac.uk/). 
+Prior to Samsung AI, I obtained my PhD on communications and deep learning from the School of Informatics, University of Edinburgh, in 2019. I was advised by [Prof Paul Patras](http://homepages.inf.ed.ac.uk/ppatras/). During my study, I visited INRIA Lyon in France to work on reinforcement learning for mobility control of fleet of drone base stations in emergency networking, and I interned with the 5G research group at Samsung Research Institute UK (SRUK). 
 
 News
 =====
-📝 Nov. 2025: Our paper on compressing state-of-the art stable diffusion models titled *HierarchicalPrune: Position-Aware Compression for Large-Scale Diffusion Models* has been accepted by AAAI'26. Link to [preprint](https://arxiv.org/pdf/2508.04663).  
+📝 Nov. 2025: Our paper on compressing state-of-the-art stable diffusion models titled *HierarchicalPrune: Position-Aware Compression for Large-Scale Diffusion Models* has been accepted by AAAI'26. Link to [preprint](https://arxiv.org/pdf/2508.04663).  
 👩🏻‍🏫 Oct. 2025: Presenting our work *Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference* at EMNLP'25 in Suzhou. Links to [preprint](https://arxiv.org/pdf/2307.09988), [demo and code](https://github.com/hmarkc/parallel-prompt-decoding).  
 🏆 Aug. 2025: Our position paper on *The Future of Consumer Edge-AI Computing* has been selected as the Runner-Up for the Best Paper Award 2024 by IEEE Pervasive Computing. Link to [paper](https://ieeexplore.ieee.org/document/10591422).   
 👩🏻‍🏫 Feb. 2025: I gave a guest lecture for the [Federated Learnling, Theory and Practice](https://www.cl.cam.ac.uk/teaching/2324/L361/) course at Department of Computer Science and Technology, University of Cambridge. I talked about our recent works around enabling FL on commercial edge devices.   
