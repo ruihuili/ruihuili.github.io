@@ -15,7 +15,7 @@ Prior to Samsung AI, I obtained my PhD on communications and deep learning from 
 
 News
 =====
-📝 Feb. 2026: Led by Miles Williams, our paper on improving state-of-the-art speculative decoding in LLMs, *SpecVocab: Speculative Decoding with a Speculative Vocabulary* is accepted at ACL 2026. Link to [paper](https://arxiv.org/pdf/2602.13836).  
+📝 Feb. 2026: Led by Miles Williams, our paper on improving state-of-the-art speculative decoding in LLMs, *SpecVocab: Speculative Decoding with a Speculative Vocabulary*, is accepted at ACL 2026. Link to [paper](https://arxiv.org/pdf/2602.13836).  
 📝 Nov. 2025: Our paper on compressing state-of-the-art diffusion models titled *HierarchicalPrune: Position-Aware Compression for Large-Scale Diffusion Models* has been accepted by AAAI'26. Links to [preprint](https://arxiv.org/pdf/2508.04663) [code](https://github.com/SamsungLabs/hierarchicalprune)[project page](https://samsunglabs.github.io/HierarchicalPrune/) and [presentation](https://underline.io/lecture/142995-hierarchicalprune-position-aware-compression-for-large-scale-diffusion-models).   
 👩🏻‍🏫 Oct. 2025: I presented our work *Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference* at EMNLP'25 in Suzhou, China. Links to [preprint](https://arxiv.org/pdf/2405.18628), [demo and code](https://github.com/hmarkc/parallel-prompt-decoding).  
 🏆 Aug. 2025: Our position paper on *The Future of Consumer Edge-AI Computing* has been selected as the Runner-Up for the Best Paper Award 2024 by IEEE Pervasive Computing. Link to [paper](https://ieeexplore.ieee.org/document/10591422).   
